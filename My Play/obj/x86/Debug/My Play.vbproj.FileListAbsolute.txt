@@ -1,0 +1,88 @@
+C:\Users\Vinayak\AppData\Local\Temporary Projects\My Play\bin\Debug\My Play.exe
+C:\Users\Vinayak\AppData\Local\Temporary Projects\My Play\bin\Debug\My Play.pdb
+C:\Users\Vinayak\AppData\Local\Temporary Projects\My Play\bin\Debug\My Play.xml
+C:\Users\Vinayak\AppData\Local\Temporary Projects\My Play\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vinayak\AppData\Local\Temporary Projects\My Play\obj\x86\Debug\My_Play.Form1.resources
+C:\Users\Vinayak\AppData\Local\Temporary Projects\My Play\obj\x86\Debug\My_Play.Resources.resources
+C:\Users\Vinayak\AppData\Local\Temporary Projects\My Play\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Vinayak\AppData\Local\Temporary Projects\My Play\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Vinayak\AppData\Local\Temporary Projects\My Play\obj\x86\Debug\My Play.exe
+C:\Users\Vinayak\AppData\Local\Temporary Projects\My Play\obj\x86\Debug\My Play.xml
+C:\Users\Vinayak\AppData\Local\Temporary Projects\My Play\obj\x86\Debug\My Play.pdb
+D:\My Projects\My Play\My Play\obj\x86\Debug\My Play.exe
+D:\My Projects\My Play\My Play\obj\x86\Debug\My Play.xml
+D:\My Projects\My Play\My Play\obj\x86\Debug\My Play.pdb
+D:\My Projects\My Play\My Play\bin\Debug\My Play.exe
+D:\My Projects\My Play\My Play\bin\Debug\My Play.pdb
+D:\My Projects\My Play\My Play\bin\Debug\My Play.xml
+D:\My Projects\My Play\My Play\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Projects\My Play\My Play\obj\x86\Debug\My_Play.Form1.resources
+D:\My Projects\My Play\My Play\obj\x86\Debug\My_Play.Resources.resources
+D:\My Projects\My Play\My Play\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Projects\My Play\My Play\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Projects\My Play\My Play\bin\Debug\Interop.WMPLib.dll
+D:\My Projects\My Play\My Play\bin\Debug\Interop.XtremeSkinFramework.dll
+D:\My Projects\My Play\My Play\bin\Debug\AxInterop.WMPLib.dll
+D:\My Projects\My Play\My Play\bin\Debug\AxInterop.XtremeSkinFramework.dll
+D:\My Projects\My Play\My Play\obj\x86\Debug\Interop.WMPLib.dll
+D:\My Projects\My Play\My Play\obj\x86\Debug\Interop.XtremeSkinFramework.dll
+D:\My Projects\My Play\My Play\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\My Projects\My Play\My Play\obj\x86\Debug\AxInterop.XtremeSkinFramework.dll
+D:\My Projects\My Play\My Play\obj\x86\Debug\My Play.vbproj.ResolveComReference.cache
+D:\My Projects\My Play\My Play\obj\x86\Debug\My_Play.FristStart_Dialog.resources
+D:\My Projects\My Play\My Play\bin\Debug\Interop.AcroPDFLib.dll
+D:\My Projects\My Play\My Play\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\My Projects\My Play\My Play\obj\x86\Debug\Interop.AcroPDFLib.dll
+D:\My Projects\My Play\My Play\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+D:\My Projects\My Play\Project\My Play\obj\x86\Debug\Interop.AcroPDFLib.dll
+D:\My Projects\My Play\Project\My Play\obj\x86\Debug\Interop.WMPLib.dll
+D:\My Projects\My Play\Project\My Play\obj\x86\Debug\Interop.XtremeSkinFramework.dll
+D:\My Projects\My Play\Project\My Play\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+D:\My Projects\My Play\Project\My Play\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\My Projects\My Play\Project\My Play\obj\x86\Debug\AxInterop.XtremeSkinFramework.dll
+D:\My Projects\My Play\Project\My Play\obj\x86\Debug\My Play.vbproj.ResolveComReference.cache
+D:\My Projects\My Play\Project\My Play\obj\x86\Debug\My Play.exe
+D:\My Projects\My Play\Project\My Play\obj\x86\Debug\My Play.xml
+D:\My Projects\My Play\Project\My Play\obj\x86\Debug\My Play.pdb
+D:\My Projects\My Play\Project\My Play\bin\Debug\My Play.exe
+D:\My Projects\My Play\Project\My Play\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Projects\My Play\Project\My Play\obj\x86\Debug\My_Play.Form1.resources
+D:\My Projects\My Play\Project\My Play\obj\x86\Debug\My_Play.FristStart_Dialog.resources
+D:\My Projects\My Play\Project\My Play\obj\x86\Debug\My_Play.Resources.resources
+D:\My Projects\My Play\Project\My Play\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Projects\My Play\Project\My Play\obj\x86\Debug\GenerateResource.read.3.tlog
+D:\My Projects\My Play\Project\My Play\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Projects\My Play\Project\My Play\bin\Debug\My Play.pdb
+D:\My Projects\My Play\Project\My Play\bin\Debug\My Play.xml
+D:\My Projects\My Play\Project\My Play\bin\Debug\Interop.AcroPDFLib.dll
+D:\My Projects\My Play\Project\My Play\bin\Debug\Interop.WMPLib.dll
+D:\My Projects\My Play\Project\My Play\bin\Debug\Interop.XtremeSkinFramework.dll
+D:\My Projects\My Play\Project\My Play\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\My Projects\My Play\Project\My Play\bin\Debug\AxInterop.WMPLib.dll
+D:\My Projects\My Play\Project\My Play\bin\Debug\AxInterop.XtremeSkinFramework.dll
+B:\My Projects\My Play\Project\My Play\obj\x86\Debug\Interop.AcroPDFLib.dll
+B:\My Projects\My Play\Project\My Play\obj\x86\Debug\Interop.WMPLib.dll
+B:\My Projects\My Play\Project\My Play\obj\x86\Debug\Interop.XtremeSkinFramework.dll
+B:\My Projects\My Play\Project\My Play\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+B:\My Projects\My Play\Project\My Play\obj\x86\Debug\AxInterop.WMPLib.dll
+B:\My Projects\My Play\Project\My Play\obj\x86\Debug\AxInterop.XtremeSkinFramework.dll
+B:\My Projects\My Play\Project\My Play\obj\x86\Debug\My Play.vbproj.ResolveComReference.cache
+B:\My Projects\My Play\Project\My Play\obj\x86\Debug\My Play.exe
+B:\My Projects\My Play\Project\My Play\obj\x86\Debug\My Play.xml
+B:\My Projects\My Play\Project\My Play\obj\x86\Debug\My Play.pdb
+B:\My Projects\My Play\Project\My Play\bin\Debug\My Play.exe
+B:\My Projects\My Play\Project\My Play\bin\Debug\My Play.pdb
+B:\My Projects\My Play\Project\My Play\bin\Debug\My Play.xml
+B:\My Projects\My Play\Project\My Play\bin\Debug\Interop.AcroPDFLib.dll
+B:\My Projects\My Play\Project\My Play\bin\Debug\Interop.WMPLib.dll
+B:\My Projects\My Play\Project\My Play\bin\Debug\Interop.XtremeSkinFramework.dll
+B:\My Projects\My Play\Project\My Play\bin\Debug\AxInterop.AcroPDFLib.dll
+B:\My Projects\My Play\Project\My Play\bin\Debug\AxInterop.WMPLib.dll
+B:\My Projects\My Play\Project\My Play\bin\Debug\AxInterop.XtremeSkinFramework.dll
+B:\My Projects\My Play\Project\My Play\obj\x86\Debug\ResolveAssemblyReference.cache
+B:\My Projects\My Play\Project\My Play\obj\x86\Debug\My_Play.Form1.resources
+B:\My Projects\My Play\Project\My Play\obj\x86\Debug\My_Play.FristStart_Dialog.resources
+B:\My Projects\My Play\Project\My Play\obj\x86\Debug\My_Play.Resources.resources
+B:\My Projects\My Play\Project\My Play\obj\x86\Debug\GenerateResource.read.1.tlog
+B:\My Projects\My Play\Project\My Play\obj\x86\Debug\GenerateResource.read.3.tlog
+B:\My Projects\My Play\Project\My Play\obj\x86\Debug\GenerateResource.write.1.tlog
